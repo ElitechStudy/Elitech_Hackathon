@@ -26,7 +26,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a><br><br>
 <br>
 
 
-* **Pour les candidats qui n’ont pas pratiqué le langage Python auparavan:**
+* **Pour les candidats qui n’ont pas pratiqué le langage Python auparavant:**
 > * Premiers Pas en Python<br><br>
 <a href="https://www.youtube.com/watch?v=9VJdd4Klofs
 " target="_blank"><img src="http://img.youtube.com/vi/9VJdd4Klofs/0.jpg" 
